@@ -10,7 +10,7 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 ---
 
 ## 📂 Featured Projects
-- [Mastermind Game in Java](https://github.com/AdityaRao127/resume-projects#MastermindGame)
+- [Mastermind Game in Java](https://github.com/AdityaRao127/resume-projects#Mastermind-Game)
 - [Project 2](https://github.com/AdityaRao127/resume-projects#project-2)
 - [Project 3](https://github.com/AdityaRao127/resume-projects#project-3)
 - [Project 4](https://github.com/AdityaRao127/resume-projects#project-4)
