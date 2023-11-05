@@ -3,14 +3,14 @@
 # Welcome to my GitHub Profile!
 ### Aditya Rao
 
-Welcome to my collection of projects that demonstrate my technical skill set, creative problem-solving, and data-science proficiency.
+Welcome to my collection of projects that demonstrate my technical skill set, creative problem-solving, and data science proficiency.
 
 </div>
 
 ---
 
 ## 📂 Featured Projects
-- [Mastermind Game in Java](https://github.com/AdityaRao127/resume-projects#Mastermind-Game)
+- [Mastermind Game in Java](https://github.com/AdityaRao127/resume-projects#Mastermind%20Game)
 - [Project 2](https://github.com/AdityaRao127/resume-projects#project-2)
 - [Project 3](https://github.com/AdityaRao127/resume-projects#project-3)
 - [Project 4](https://github.com/AdityaRao127/resume-projects#project-4)
