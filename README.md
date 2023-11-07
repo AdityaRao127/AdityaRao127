@@ -18,24 +18,6 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 
 Each project link leads to a section within my 'resume projects' repository, where you can find more details and code.
 
----
-
-## 🚀 Mastermind Game in Java
-**Description:** An implementation of the classic Mastermind game showcasing the strategic use of object-oriented principles.
-
-- **Highlights:**
-  - Engaging user interface in the console
-  - Advanced logic for puzzle generation
-  - Exception handling for a seamless user experience
-
-_[**Code**](https://github.com/AdityaRao127/resume-projects/tree/main/Mastermind)_
-
----
-
-[Insert similar sections for Projects 2-5 with brief descriptions and links to their folders within the 'resume projects' repository.]
-
----
-
 ## 💻 Technologies Used
 - Python, Java
 - Eclipse IDE, Visual Studio Code
@@ -49,7 +31,6 @@ _[**Code**](https://github.com/AdityaRao127/resume-projects/tree/main/Mastermind
 <div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aditya-kr-rao/)
-
 </div>
 
 For more information or to reach out, here are my details:
