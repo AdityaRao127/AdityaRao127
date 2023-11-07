@@ -19,10 +19,9 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 Each project link leads to a section within my 'resume projects' repository, where you can find more details and code.
 
 ## 💻 Technologies Used
-- Python, Java
-- Eclipse IDE, Visual Studio Code
-- Libraries: Random, NumPy, TensorFlow
-- [Other Technologies/Frameworks You Use]
+- Python, Java, C++, SQL, HTML, CSS
+- Eclipse IDE, Visual Studio Code, Google Colab, Anaconda
+- Libraries: TensorFlow, TensorFlow Lite, Scikit-learn, OpenCV, Pandas, NumPy, MatPlotLib, Datetime
 
 ---
 
