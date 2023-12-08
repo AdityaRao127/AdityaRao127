@@ -8,20 +8,21 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 </div>
 
 ---
+## 🔬 Research Projects
+- [Alzheimer's Detection](https://github.com/Sriramnat100/ASDRP_Files)
+- [S&P 500 Forecasting w/ GPT-4](https://github.com/AdityaRao127/resume-projects#project-5)
+- 
 
-## 📂 Featured Projects
-- [Mastermind Game in Java](https://github.com/AdityaRao127/resume-projects#Mastermind%20Game)
-- [Project 2](https://github.com/AdityaRao127/resume-projects#project-2)
-- [Project 3](https://github.com/AdityaRao127/resume-projects#project-3)
-- [Project 4](https://github.com/AdityaRao127/resume-projects#project-4)
-- [Project 5](https://github.com/AdityaRao127/resume-projects#project-5)
-
-Each project link leads to a section within my 'resume projects' repository, where you can find more details and code.
+## 📂 Other Projects
+- [Natural Image Text Detection](https://github.com/AdityaRao127/openCV-image-text-classification)
+- [NBA Champion Prediction](https://github.com/rishavc300/nbaproj)
+- [Mastermind Board Game](https://github.com/AdityaRao127/resume-projects/blob/main/Mastermind%20Game/Mastermind.java)
+- [Song Database ](https://github.com/AdityaRao127/resume-projects/blob/main/Mastermind%20Game/Mastermind.java)
 
 ## 💻 Technologies Used
-- Python, Java, C++, SQL, HTML, CSS
-- Eclipse IDE, Visual Studio Code, Google Colab, Anaconda
-- Libraries: TensorFlow, TensorFlow Lite, Scikit-learn, OpenCV, Pandas, NumPy, MatPlotLib, Datetime
+- Languages: Python, SQL, Java, C++, HTML, CSS
+- Dev Tools: Google Colab, Jupyter Notebook, Eclipse, Git, Anaconda, MySQL Workbench
+- Libraries: TensorFlow, TensorFlow Lite, PyTorch, OpenCV, Scikit-learn, Pandas, NumPy, MatPlotLib, Datetime
 
 ---
 
