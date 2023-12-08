@@ -9,15 +9,17 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 
 ---
 ## 🔬 Research Projects
+- [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
 - [Alzheimer's Detection](https://github.com/Sriramnat100/ASDRP_Files)
 - [S&P 500 Forecasting w/ GPT-4](https://github.com/AdityaRao127/resume-projects#project-5)
-- 
+
 
 ## 📂 Other Projects
-- [Natural Image Text Detection](https://github.com/AdityaRao127/openCV-image-text-classification)
+- [EAST: Natural Image Text Detection](https://github.com/AdityaRao127/openCV-image-text-classification)
+- [Clothing Detection](https://github.com/Gerald-Lu/clothing-detection-app)
 - [NBA Champion Prediction](https://github.com/rishavc300/nbaproj)
 - [Mastermind Board Game](https://github.com/AdityaRao127/resume-projects/blob/main/Mastermind%20Game/Mastermind.java)
-- [Song Database ](https://github.com/AdityaRao127/resume-projects/blob/main/Mastermind%20Game/Mastermind.java)
+- [Song Database](https://github.com/AdityaRao127/resume-projects/blob/main/Mastermind%20Game/Mastermind.java)
 
 ## 💻 Technologies Used
 - Languages: Python, SQL, Java, C++, HTML, CSS
