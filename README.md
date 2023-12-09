@@ -26,7 +26,7 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 ### Languages
 [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![SQL Badge](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![Java Badge](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
+[![Java Badge](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![C++ Badge](https://img.shields.io/badge/-C++-purple?style=flat-square&logo=C%2B%2B&logoColor=white)](https://isocpp.org/)
 [![HTML Badge](https://img.shields.io/badge/-HTML-yellow?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS Badge](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -44,7 +44,7 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 [![TensorFlow Lite Badge](https://img.shields.io/badge/-TensorFlow%20Lite-orange?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/lite)
 [![PyTorch Badge](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![OpenCV Badge](https://img.shields.io/badge/-OpenCV-purple?style=flat-square&logo=OpenCV&logoColor=white)](https://opencv.org/)
-[![Scikit-learn Badge](https://img.shields.io/badge/-Scikit--learn-green?style=flat-square&logo=scikit--learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Scikit-learn Badge](https://img.shields.io/badge/-Scikit--learn-green?style=flat-square&logo=Python&logoColor=white)](https://scikit-learn.org/stable/)
 [![Pandas Badge](https://img.shields.io/badge/-Pandas-yellow?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy Badge](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=NumPy&logoColor=white)](https://numpy.org/)
 [![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-purple?style=flat-square&logo=Python&logoColor=white)](https://matplotlib.org/)
