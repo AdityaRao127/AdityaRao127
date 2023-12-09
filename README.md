@@ -23,36 +23,32 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 
 ## 💻 Technologies Used
 
-## 💻 Technologies Used
-
 ### Languages
-[![Python Badge](https://img.shields.io/badge/-Python-default)](https://www.python.org/)
-[![SQL Badge](https://img.shields.io/badge/-SQL-default)](https://www.mysql.com/)
-[![Java Badge](https://img.shields.io/badge/-Java-default)](https://www.java.com/)
-[![C++ Badge](https://img.shields.io/badge/-C++-default)](https://isocpp.org/)
-[![HTML Badge](https://img.shields.io/badge/-HTML-default)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS Badge](https://img.shields.io/badge/-CSS-default)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python Badge](https://img.shields.io/badge/-Python?style=flat-square&logo=Python&logoColor=black)](https://www.python.org/)
+[![SQL Badge](https://img.shields.io/badge/-SQL?style=flat-square&logo=MySQL&logoColor=black)](https://www.mysql.com/)
+[![Java Badge](https://img.shields.io/badge/-Java?style=flat-square&logo=Java&logoColor=black)](https://www.java.com/)
+[![C++ Badge](https://img.shields.io/badge/-C++?style=flat-square&logo=C%2B%2B&logoColor=black)](https://isocpp.org/)
+[![HTML Badge](https://img.shields.io/badge/-HTML?style=flat-square&logo=HTML5&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS Badge](https://img.shields.io/badge/-CSS?style=flat-square&logo=CSS3&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Development Tools
-[![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab-default)](https://colab.research.google.com/notebooks/intro.ipynb)
-[![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-default)](https://jupyter.org/)
-[![Eclipse Badge](https://img.shields.io/badge/-Eclipse-default)](https://www.eclipse.org/)
-[![Git Badge](https://img.shields.io/badge/-Git-default)](https://git-scm.com/)
-[![Anaconda Badge](https://img.shields.io/badge/-Anaconda-default)](https://www.anaconda.com/)
-[![MySQL Workbench Badge](https://img.shields.io/badge/-MySQL%20Workbench-default)](https://www.mysql.com/products/workbench/)
+[![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab?style=flat-square&logo=Google%20Colab&logoColor=black)](https://colab.research.google.com/notebooks/intro.ipynb)
+[![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook?style=flat-square&logo=Jupyter&logoColor=black)](https://jupyter.org/)
+[![Eclipse Badge](https://img.shields.io/badge/-Eclipse?style=flat-square&logo=Eclipse&logoColor=black)](https://www.eclipse.org/)
+[![Git Badge](https://img.shields.io/badge/-Git?style=flat-square&logo=Git&logoColor=black)](https://git-scm.com/)
+[![Anaconda Badge](https://img.shields.io/badge/-Anaconda?style=flat-square&logo=Anaconda&logoColor=black)](https://www.anaconda.com/)
+[![MySQL Workbench Badge](https://img.shields.io/badge/-MySQL%20Workbench?style=flat-square&logo=MySQL&logoColor=black)](https://www.mysql.com/products/workbench/)
 
 ### Libraries
-[![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-default)](https://www.tensorflow.org/)
-[![TensorFlow Lite Badge](https://img.shields.io/badge/-TensorFlow%20Lite-default)](https://www.tensorflow.org/lite)
-[![PyTorch Badge](https://img.shields.io/badge/-PyTorch-default)](https://pytorch.org/)
-[![OpenCV Badge](https://img.shields.io/badge/-OpenCV-default)](https://opencv.org/)
-[![Scikit-learn Badge](https://img.shields.io/badge/-Scikit--learn-default)](https://scikit-learn.org/stable/)
-[![Pandas Badge](https://img.shields.io/badge/-Pandas-default)](https://pandas.pydata.org/)
-[![NumPy Badge](https://img.shields.io/badge/-NumPy-default)](https://numpy.org/)
-[![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-default)](https://matplotlib.org/)
-[![Datetime Badge](https://img.shields.io/badge/-Datetime-default)](https://docs.python.org/3/library/datetime.html)
-
-
+[![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow?style=flat-square&logo=TensorFlow&logoColor=black)](https://www.tensorflow.org/)
+[![TensorFlow Lite Badge](https://img.shields.io/badge/-TensorFlow%20Lite?style=flat-square&logo=TensorFlow&logoColor=black)](https://www.tensorflow.org/lite)
+[![PyTorch Badge](https://img.shields.io/badge/-PyTorch?style=flat-square&logo=PyTorch&logoColor=black)](https://pytorch.org/)
+[![OpenCV Badge](https://img.shields.io/badge/-OpenCV?style=flat-square&logo=OpenCV&logoColor=black)](https://opencv.org/)
+[![Scikit-learn Badge](https://img.shields.io/badge/-Scikit--learn?style=flat-square&logo=scikit--learn&logoColor=black)](https://scikit-learn.org/stable/)
+[![Pandas Badge](https://img.shields.io/badge/-Pandas?style=flat-square&logo=Pandas&logoColor=black)](https://pandas.pydata.org/)
+[![NumPy Badge](https://img.shields.io/badge/-NumPy?style=flat-square&logo=NumPy&logoColor=black)](https://numpy.org/)
+[![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib?style=flat-square&logo=Python&logoColor=black)](https://matplotlib.org/)
+[![Datetime Badge](https://img.shields.io/badge/-Datetime?style=flat-square&logo=Python&logoColor=black)](https://docs.python.org/3/library/datetime.html)
 
 ## 📬 Connect With Me
 
