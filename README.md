@@ -26,7 +26,7 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 ### Languages
 [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![SQL Badge](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Java Badge](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![C++ Badge](https://img.shields.io/badge/-C++-purple?style=flat-square&logo=C%2B%2B&logoColor=white)](https://isocpp.org/)
 [![HTML Badge](https://img.shields.io/badge/-HTML-yellow?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS Badge](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
