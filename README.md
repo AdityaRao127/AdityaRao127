@@ -12,6 +12,7 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 - [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
 - [Alzheimer's Detection](https://github.com/Sriramnat100/ASDRP_Files)
 - [S&P 500 Forecasting w/ GPT-4](https://github.com/AdityaRao127/resume-projects#project-5)
+   - To be added after publication
 
 
 ## 📂 Other Projects
