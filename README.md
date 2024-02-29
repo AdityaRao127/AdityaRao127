@@ -46,6 +46,7 @@
 [![Anaconda Badge](https://img.shields.io/badge/-Anaconda-blue?style=flat-square&logo=Anaconda&logoColor=white)](https://www.anaconda.com/)
 [![MySQL Workbench Badge](https://img.shields.io/badge/-MySQL%20Workbench-orange?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/products/workbench/)
 [![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![AWS Badge](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
 
 ### Libraries
 [![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-blue?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
@@ -59,7 +60,7 @@
 [![Datetime Badge](https://img.shields.io/badge/-Datetime-blue?style=flat-square&logo=Python&logoColor=white)](https://docs.python.org/3/library/datetime.html)
 [![D3.js Badge](https://img.shields.io/badge/-D3.js-orange?style=flat-square&logo=d3.js&logoColor=white)](https://d3js.org/)
 [![Leaflet.js Badge](https://img.shields.io/badge/-Leaflet.js-green?style=flat-square&logo=leaflet&logoColor=white)](https://leafletjs.com/)
-[![AWS Badge](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
+
 
 
 ## 📬 Please feel free to connect with me!
