@@ -3,21 +3,24 @@
 # Welcome to my GitHub Profile!
 ### Aditya Rao
 
-Welcome to my collection of projects that demonstrate my technical skill set, creative problem-solving, and data science proficiency.
 
 </div>
 
 ---
+## 👨‍💻 Currently Developing
+- [NBA Champion Prediction](https://github.com/rishavc300/nbaproj)
+- [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
+
+
 ## 🔬 Research Projects
 - [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
 - [Alzheimer's Detection](https://github.com/Sriramnat100/ASDRP_Files)
 - [S&P 500 Forecasting w/ GPT-4](https://github.com/AdityaRao127/resume-projects#project-5)
-   - To be added after publication due to privacy reasons.
+   - Paper/Algorithms will be added after publication.
 
 
 ## 📂 Other Projects
 - [EAST: Natural Image Text Detection](https://github.com/AdityaRao127/openCV-image-text-classification)
-- [NBA Champion Prediction](https://github.com/rishavc300/nbaproj)
 - [Mastermind Board Game](https://github.com/AdityaRao127/resume-projects/blob/main/Mastermind%20Game/Mastermind.java)
 - [Song Database](https://github.com/AdityaRao127/resume-projects/blob/main/Mastermind%20Game/Mastermind.java)
 - [Clothing Detection (Private Repository)](https://github.com/Gerald-Lu/clothing-detection-app)
@@ -31,6 +34,9 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 [![C++ Badge](https://img.shields.io/badge/-C++-yellow?style=flat-square&logo=C%2B%2B&logoColor=white)](https://isocpp.org/)
 [![HTML Badge](https://img.shields.io/badge/-HTML-green?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS Badge](https://img.shields.io/badge/-CSS-green?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### Development Tools
 [![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab-blue?style=flat-square&logo=Google%20Colab&logoColor=white)](https://colab.research.google.com/notebooks/intro.ipynb)
@@ -39,6 +45,7 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 [![Git Badge](https://img.shields.io/badge/-Git-red?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
 [![Anaconda Badge](https://img.shields.io/badge/-Anaconda-blue?style=flat-square&logo=Anaconda&logoColor=white)](https://www.anaconda.com/)
 [![MySQL Workbench Badge](https://img.shields.io/badge/-MySQL%20Workbench-orange?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/products/workbench/)
+[![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
 
 ### Libraries
 [![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-blue?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
@@ -50,19 +57,18 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 [![NumPy Badge](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=NumPy&logoColor=white)](https://numpy.org/)
 [![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Datetime Badge](https://img.shields.io/badge/-Datetime-blue?style=flat-square&logo=Python&logoColor=white)](https://docs.python.org/3/library/datetime.html)
+[![D3.js Badge](https://img.shields.io/badge/-D3.js-orange?style=flat-square&logo=d3.js&logoColor=white)](https://d3js.org/)
+[![Leaflet.js Badge](https://img.shields.io/badge/-Leaflet.js-green?style=flat-square&logo=leaflet&logoColor=white)](https://leafletjs.com/)
+[![AWS Badge](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
 
 
-
-
-
-## 📬 Connect With Me
+## 📬 Please feel free to connect with me!
 
 <div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aditya-kr-rao/)
 </div>
 
-For more information or to reach out, here are my details:
 
 - **Email:** arao43@ucmerced.edu
 - **GitHub:** [@AdityaRao127](https://github.com/AdityaRao127)
