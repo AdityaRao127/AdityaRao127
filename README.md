@@ -112,15 +112,3 @@ Thank you for checking out my GitHub profile!
   </script>
 </div>
 
-.quote-box {
-  border: 1px solid #ddd;
-  padding: 16px;
-  background-color: #f9f9f9;
-  border-radius: 5px;
-  margin: 16px 0;
-}
-
-.quote-text {
-  font-style: italic;
-  font-size: 1.2em;
-}
