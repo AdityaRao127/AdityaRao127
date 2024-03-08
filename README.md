@@ -78,5 +78,5 @@
   
 Thank you for checking out my GitHub profile!
 
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=philosophical)
+ ![Quote]("What we learn with pleasure, we never forget.")
  </div>
