@@ -79,3 +79,48 @@
 Thank you for checking out my GitHub profile!
 
 </div>
+
+<div class="quote-box">
+  <script>
+  var quotes = [
+    "The only way to learn a new programming language is by writing programs in it. – Dennis Ritchie",
+    "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler",
+    "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates",
+    "The most disastrous thing that you can ever do is to tie yourself to another person's vision. – Steve Jobs",
+    "Walking on water and developing software from a specification are easy if both are frozen. – Edward V Berard",
+    "If you think good architecture is expensive, try bad architecture. – Brian Foote"
+    "The only way to learn a new programming language is by writing programs in it. – Dennis Ritchie",
+    "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler",
+    "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates",
+    "The most disastrous thing that you can ever do is to tie yourself to another person's vision. – Steve Jobs",
+    "Walking on water and developing software from a specification are easy if both are frozen. – Edward V Berard",
+    "If you think good architecture is expensive, try bad architecture. – Brian Foote",
+    "The best programmers are not marginally better than mediocre ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, problem-solving ability, quality of implementation, or customer        service. – Randall E. Stross",
+    "The only way to go fast, is to go well. – Robert C. Martin",
+    "First, solve the problem. Then, write the code. – John Johnson",
+    "The computer was born to solve problems that did not exist before. – Bill Gates",
+    "The most damaging thing you can do to a program is to make it run fast. – Joe Armstrong",
+    "The function of good software is to make the complex appear to be simple. – Grady Booch",
+    "The only way to make a computer do exactly what you want is to tell it to do so in words it understands. – Bjarne Stroustrup",
+    "The best code is no code at all. – Uncle Bob Martin",
+    "The only real key to success is to find out what you enjoy doing, and then put your whole heart and soul into it. – Bill Gates",
+    "The only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. – Steve Jobs",
+     "Happiness is meeting your expectations." '"-Mr.J"
+  ]
+
+  document.write('<p class="quote-text">' + quotes[Math.floor(Math.random() * quotes.length)] + '</p>');
+  </script>
+</div>
+
+.quote-box {
+  border: 1px solid #ddd;
+  padding: 16px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  margin: 16px 0;
+}
+
+.quote-text {
+  font-style: italic;
+  font-size: 1.2em;
+}
