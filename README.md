@@ -71,7 +71,7 @@
 </div>
 
 
-- **Email:** arao43@ucmerced.edu
+- **Email:** adityarao6@acm.org
 - **GitHub:** [@AdityaRao127](https://github.com/AdityaRao127)
 
 <div align="center">
