@@ -14,10 +14,12 @@
 
 ## 🔬 Research Projects
 - [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
-- [Alzheimer's Detection](https://github.com/Sriramnat100/ASDRP_Files)
 - [S&P 500 Forecasting w/ GPT-4](https://github.com/AdityaRao127/resume-projects#project-5)
-   - Paper/Algorithms will be added after publication.
+   - Publication accepted, algorithms will be added after release.
+- [Alzheimer's Detection](https://github.com/Sriramnat100/ASDRP_Files)
 
+## 👨‍💻 Hackathons
+- [Hacknosis - HackMerced 2024 Winner of Best Use of MongoDB Atlas](https://github.com/aelew/hackmerced-2024)
 
 ## 📂 Other Projects
 - [EAST: Natural Image Text Detection](https://github.com/AdityaRao127/openCV-image-text-classification)
@@ -59,8 +61,6 @@
 [![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Datetime Badge](https://img.shields.io/badge/-Datetime-blue?style=flat-square&logo=Python&logoColor=white)](https://docs.python.org/3/library/datetime.html)
 [![D3.js Badge](https://img.shields.io/badge/-D3.js-orange?style=flat-square&logo=d3.js&logoColor=white)](https://d3js.org/)
-[![Leaflet.js Badge](https://img.shields.io/badge/-Leaflet.js-green?style=flat-square&logo=leaflet&logoColor=white)](https://leafletjs.com/)
-
 
 
 ## 📬 Please feel free to connect with me!
@@ -73,6 +73,7 @@
 
 - **Email:** adityarao6@acm.org
 - **GitHub:** [@AdityaRao127](https://github.com/AdityaRao127)
+- **Devpost:**[Devpost](https://devpost.com/rao-aditya-codes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 <div align="center">
   
