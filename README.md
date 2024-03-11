@@ -73,7 +73,7 @@
 
 - **Email:** adityarao6@acm.org
 - **GitHub:** [@AdityaRao127](https://github.com/AdityaRao127)
-- **Devpost:**[Devpost](https://devpost.com/rao-aditya-codes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- **Devpost:** [Devpost](https://devpost.com/rao-aditya-codes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 <div align="center">
   
