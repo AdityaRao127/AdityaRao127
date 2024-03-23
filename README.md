@@ -72,6 +72,7 @@
 
 
 - **Email:** adityarao6@acm.org
+- **Kaggle:** [@AdityaRao127](https://www.kaggle.com/adityarao127)
 - **GitHub:** [@AdityaRao127](https://github.com/AdityaRao127)
 - **Devpost:** [Devpost](https://devpost.com/rao-aditya-codes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
