@@ -8,7 +8,7 @@
 
 ---
 ## 👨‍💻 Currently Developing
-- [Portfolio Website](adityarao.co)
+- [Portfolio Website](https://adityarao.co)
 - [NBA Champion Prediction](https://github.com/rishavc300/nbaproj)
 - [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
 
