@@ -9,16 +9,16 @@
 ---
 ## 👨‍💻 Currently Developing
 
-- [NBA Discord Bot](https://github.com/AdityaRao1](https://github.com/AdityaRao127/BBALLHQ-DISCORD-BOT)
+- [NBA Discord Bot](https://github.com/AdityaRao127/BBALLHQ-DISCORD-BOT)
 - [NBA Champion Prediction](https://github.com/rishavc300/nbaproj)
 - [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
-- [Portfolio Website](https://adityarao.co)[Portfolio Website](https://adityarao.co)
+- [Portfolio Website](https://adityarao.co)
 
 
 ## 🔬 Research Projects
 - [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
 - [S&P 500 Forecasting w/ GPT-4](https://github.com/AdityaRao127/resume-projects#project-5)
-   - Code will be added after publication.
+   - Currently under review for publication. 
 - [Alzheimer's Detection](https://github.com/Sriramnat100/ASDRP_Files)
 
 ## 👨‍💻 Hackathons
