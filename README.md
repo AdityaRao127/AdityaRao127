@@ -8,9 +8,11 @@
 
 ---
 ## 👨‍💻 Currently Developing
-- [Portfolio Website](https://adityarao.co)
+
+- [NBA Discord Bot](https://github.com/AdityaRao1](https://github.com/AdityaRao127/BBALLHQ-DISCORD-BOT)
 - [NBA Champion Prediction](https://github.com/rishavc300/nbaproj)
 - [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
+- [Portfolio Website](https://adityarao.co)[Portfolio Website](https://adityarao.co)
 
 
 ## 🔬 Research Projects
@@ -28,40 +30,45 @@
 - [Song Database](https://github.com/AdityaRao127/resume-projects/blob/main/Mastermind%20Game/Mastermind.java)
 - [Clothing Detection (Private Repository)](https://github.com/Gerald-Lu/clothing-detection-app)
 
-## 💻 Technologies Used
-
 ### Languages
-[![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
-[![SQL Badge](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![Java Badge](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
-[![C++ Badge](https://img.shields.io/badge/-C++-yellow?style=flat-square&logo=C%2B%2B&logoColor=white)](https://isocpp.org/)
-[![HTML Badge](https://img.shields.io/badge/-HTML-green?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS Badge](https://img.shields.io/badge/-CSS-green?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png) [Python](https://www.python.org/)
+![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_logo.svg/1200px-Sql_logo.svg.png) [SQL](https://www.mysql.com/)
+![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png) [Java](https://www.java.com/)
+![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png) [C++](https://isocpp.org/)
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png) [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png) [Node.js](https://nodejs.org/)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JavaScript-logo.png/1200px-JavaScript-logo.png) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TypeScript_logo_2020.svg/1200px-TypeScript_logo_2020.svg.png) [TypeScript](https://www.typescriptlang.org/)
 
 ### Development Tools
-[![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab-blue?style=flat-square&logo=Google%20Colab&logoColor=white)](https://colab.research.google.com/notebooks/intro.ipynb)
-[![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-blue?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-[![Eclipse Badge](https://img.shields.io/badge/-Eclipse-orange?style=flat-square&logo=Eclipse&logoColor=white)](https://www.eclipse.org/)
-[![Git Badge](https://img.shields.io/badge/-Git-red?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
-[![Anaconda Badge](https://img.shields.io/badge/-Anaconda-blue?style=flat-square&logo=Anaconda&logoColor=white)](https://www.anaconda.com/)
-[![MySQL Workbench Badge](https://img.shields.io/badge/-MySQL%20Workbench-orange?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/products/workbench/)
-[![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![AWS Badge](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
+
+![Google Colab](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Colab_logo.svg/1200px-Colab_logo.svg.png) [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png) [Jupyter Notebook](https://jupyter.org/)
+![Eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eclipse_logo.svg/1200px-Eclipse_logo.svg.png) [Eclipse](https://www.eclipse.org/)
+![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png) [Git](https://git-scm.com/)
+![Anaconda](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Anaconda_Logo.svg/1200px-Anaconda_Logo.svg.png) [Anaconda](https://www.anaconda.com/)
+![MySQL Workbench](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MySQL_Workbench_Logo.svg/1200px-MySQL_Workbench_Logo.svg.png) [MySQL Workbench](https://www.mysql.com/products/workbench/)
+![Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.svg/1200px-Docker_%28container_engine%29_logo.svg.png) [Docker](https://www.docker.com/)
+![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AWS_Simple_Icons_Amazon_Web_Services_Logo.svg/1200px-AWS_Simple_Icons_Amazon_Web_Services_Logo.svg.png) [AWS](https://aws.amazon.com/)
 
 ### Libraries
-[![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-blue?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![TensorFlow Lite Badge](https://img.shields.io/badge/-TensorFlow%20Lite-blue?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/lite)
-[![PyTorch Badge](https://img.shields.io/badge/-PyTorch-bkue?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![OpenCV Badge](https://img.shields.io/badge/-OpenCV-bluee?style=flat-square&logo=OpenCV&logoColor=white)](https://opencv.org/)
-[![Scikit-learn Badge](https://img.shields.io/badge/-Scikit--learn-blue?style=flat-square&logo=Scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![Pandas Badge](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy Badge](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=NumPy&logoColor=white)](https://numpy.org/)
-[![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Datetime Badge](https://img.shields.io/badge/-Datetime-blue?style=flat-square&logo=Python&logoColor=white)](https://docs.python.org/3/library/datetime.html)
-[![D3.js Badge](https://img.shields.io/badge/-D3.js-orange?style=flat-square&logo=d3.js&logoColor=white)](https://d3js.org/)
+
+![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png) [TensorFlow](https://www.tensorflow.org/)
+![TensorFlow Lite](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png) [TensorFlow Lite](https://www.tensorflow.org/lite)
+![PyTorch](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/PyTorch_logo.svg/1200px-PyTorch_logo.svg.png) [PyTorch](https://pytorch.org/)
+![OpenCV](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo.svg/1200px-OpenCV_Logo.svg.png) [OpenCV](https://opencv.org/)
+![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Scikit-learn-logo.png/1200px-Scikit-learn-logo.png) [Scikit-learn](https://scikit-learn.org/stable/)
+![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png) [Pandas](https://pandas.pydata.org/)
+![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png) [NumPy](https://numpy.org/)
+![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matplotlib_logo.svg/1200px-Matplotlib_logo.svg.png) [Matplotlib](https://matplotlib.org/)
+![Datetime](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png) [Datetime](https://docs.python.org/3/library/datetime.html)
+![D3.js](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/D3.js-logo.svg/1200px-D3.js-logo.svg.png) [D3.js](https://d3js.org/)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaRao127&show_icons=true&theme=dark)
 
 
 ## 📬 Please feel free to connect with me!
