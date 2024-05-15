@@ -70,6 +70,7 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaRao127&show_icons=true&theme=dark)
+![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRao127&layout=compact&theme=dark)
 
 
 ## 📬 Please feel free to connect with me!
