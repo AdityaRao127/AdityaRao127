@@ -32,39 +32,22 @@
 
 ### Languages
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png) [Python](https://www.python.org/)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_logo.svg/1200px-Sql_logo.svg.png) [SQL](https://www.mysql.com/)
-![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png) [Java](https://www.java.com/)
-![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png) [C++](https://isocpp.org/)
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png) [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png) [Node.js](https://nodejs.org/)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JavaScript-logo.png/1200px-JavaScript-logo.png) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TypeScript_logo_2020.svg/1200px-TypeScript_logo_2020.svg.png) [TypeScript](https://www.typescriptlang.org/)
+| ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png) [Python](https://www.python.org/) | ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_logo.svg/50px-Sql_logo.svg.png) [SQL](https://www.mysql.com/) | ![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/50px-Java_programming_language_logo.svg.png) [Java](https://www.java.com/) |
+| ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/50px-ISO_C%2B%2B_Logo.svg.png) [C++](https://isocpp.org/) | ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/50px-HTML5_logo_and_wordmark.svg.png) [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/50px-CSS3_logo_and_wordmark.svg.png) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| ![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/50px-Node.js_logo_2015.svg.png) [Node.js](https://nodejs.org/) | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JavaScript-logo.png/50px-JavaScript-logo.png) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TypeScript_logo_2020.svg/50px-TypeScript_logo_2020.svg.png) [TypeScript](https://www.typescriptlang.org/) |
 
 ### Development Tools
 
-![Google Colab](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Colab_logo.svg/1200px-Colab_logo.svg.png) [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
-![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png) [Jupyter Notebook](https://jupyter.org/)
-![Eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eclipse_logo.svg/1200px-Eclipse_logo.svg.png) [Eclipse](https://www.eclipse.org/)
-![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png) [Git](https://git-scm.com/)
-![Anaconda](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Anaconda_Logo.svg/1200px-Anaconda_Logo.svg.png) [Anaconda](https://www.anaconda.com/)
-![MySQL Workbench](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MySQL_Workbench_Logo.svg/1200px-MySQL_Workbench_Logo.svg.png) [MySQL Workbench](https://www.mysql.com/products/workbench/)
-![Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.svg/1200px-Docker_%28container_engine%29_logo.svg.png) [Docker](https://www.docker.com/)
-![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AWS_Simple_Icons_Amazon_Web_Services_Logo.svg/1200px-AWS_Simple_Icons_Amazon_Web_Services_Logo.svg.png) [AWS](https://aws.amazon.com/)
+| ![Google Colab](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Colab_logo.svg/50px-Colab_logo.svg.png) [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) | ![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png) [Jupyter Notebook](https://jupyter.org/) | ![Eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eclipse_logo.svg/50px-Eclipse_logo.svg.png) [Eclipse](https://www.eclipse.org/) |
+| ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/50px-Git-logo.svg.png) [Git](https://git-scm.com/) | ![Anaconda](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Anaconda_Logo.svg/50px-Anaconda_Logo.svg.png) [Anaconda](https://www.anaconda.com/) | ![MySQL Workbench](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MySQL_Workbench_Logo.svg/50px-MySQL_Workbench_Logo.svg.png) [MySQL Workbench](https://www.mysql.com/products/workbench/) |
+| ![Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.svg/50px-Docker_%28container_engine%29_logo.svg.png) [Docker](https://www.docker.com/) | ![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AWS_Simple_Icons_Amazon_Web_Services_Logo.svg/50px-AWS_Simple_Icons_Amazon_Web_Services_Logo.svg.png) [AWS](https://aws.amazon.com/) |
 
 ### Libraries
 
-![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png) [TensorFlow](https://www.tensorflow.org/)
-![TensorFlow Lite](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png) [TensorFlow Lite](https://www.tensorflow.org/lite)
-![PyTorch](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/PyTorch_logo.svg/1200px-PyTorch_logo.svg.png) [PyTorch](https://pytorch.org/)
-![OpenCV](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo.svg/1200px-OpenCV_Logo.svg.png) [OpenCV](https://opencv.org/)
-![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Scikit-learn-logo.png/1200px-Scikit-learn-logo.png) [Scikit-learn](https://scikit-learn.org/stable/)
-![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png) [Pandas](https://pandas.pydata.org/)
-![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png) [NumPy](https://numpy.org/)
-![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matplotlib_logo.svg/1200px-Matplotlib_logo.svg.png) [Matplotlib](https://matplotlib.org/)
-![Datetime](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png) [Datetime](https://docs.python.org/3/library/datetime.html)
-![D3.js](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/D3.js-logo.svg/1200px-D3.js-logo.svg.png) [D3.js](https://d3js.org/)
+| ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TensorFlow_logo.svg/50px-TensorFlow_logo.svg.png) [TensorFlow](https://www.tensorflow.org/) | ![TensorFlow Lite](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TensorFlow_logo.svg/50px-TensorFlow_logo.svg.png) [TensorFlow Lite](https://www.tensorflow.org/lite) | ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/PyTorch_logo.svg/50px-PyTorch_logo.svg.png) [PyTorch](https://pytorch.org/) |
+| ![OpenCV](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo.svg/50px-OpenCV_Logo.svg.png) [OpenCV](https://opencv.org/) | ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Scikit-learn-logo.png/50px-Scikit-learn-logo.png) [Scikit-learn](https://scikit-learn.org/stable/) | ![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/50px-Pandas_logo.svg.png) [Pandas](https://pandas.pydata.org/) |
+| ![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/50px-NumPy_logo_2020.svg.png) [NumPy](https://numpy.org/) | ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matplotlib_logo.svg/50px-Matplotlib_logo.svg.png) [Matplotlib](https://matplotlib.org/) | ![Datetime](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png) [Datetime](https://docs.python.org/3/library/datetime.html) |
+| ![D3.js](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/D3.js-logo.svg/50px-D3.js-logo.svg.png) [D3.js](https://d3js.org/) |
 
 ## GitHub Stats
 
