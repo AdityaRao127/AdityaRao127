@@ -59,7 +59,7 @@
 <a href="https://www.tensorflow.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" style="margin: 0 10px;" /></a>
 <a href="https://opencv.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="50" style="margin: 0 10px;" /></a>
 <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" style="margin: 0 10px;" /></a>
-<a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" style="margin: 0 10px;" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100" style="margin: 0 10px;" /></a>
 <a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" style="margin: 0 10px;" /></a>
 <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" style="margin: 0 10px;" /></a>
 <a href="https://docs.python.org/3/library/datetime.html"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Datetime" width="50" style="margin: 0 10px;" /></a>
