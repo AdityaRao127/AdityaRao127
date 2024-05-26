@@ -8,11 +8,10 @@
 
 ---
 ## 👨‍💻 Currently Developing
-
-- [NBA Discord Bot](https://github.com/AdityaRao127/BBALLHQ-DISCORD-BOT)
 - [NBA Champion Prediction](https://github.com/AdityaRao127/nba-website)
 - [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
 - [Portfolio Website](https://adityarao.co)
+- [NBA Discord Bot](https://github.com/AdityaRao127/BBALLHQ-DISCORD-BOT)
 
 
 ## 🔬 Research Projects
@@ -28,7 +27,7 @@
 - [EAST: Natural Image Text Detection](https://github.com/AdityaRao127/openCV-image-text-classification)
 - [Mastermind Board Game](https://github.com/AdityaRao127/resume-projects/blob/main/Mastermind%20Game/Mastermind.java)
 - [Song Database](https://github.com/AdityaRao127/resume-projects/blob/main/Mastermind%20Game/Mastermind.java)
-- [Clothing Detection (Private Repository)](https://github.com/Gerald-Lu/clothing-detection-app)
+
 
 
 ### Languages
