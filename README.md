@@ -62,7 +62,6 @@
 <a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100" style="margin: 0 10px;" /></a>
 <a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" style="margin: 0 10px;" /></a>
 <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" style="margin: 0 10px;" /></a>
-<a href="https://docs.python.org/3/library/datetime.html"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Datetime" width="50" style="margin: 0 10px;" /></a>
 <a href="https://d3js.org/"><img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="D3.js" width="50" style="margin: 0 10px;" /></a>
 
 
