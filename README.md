@@ -33,8 +33,10 @@
 ### Languages
 
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" style="margin: 0 10px;" /></a>
+
 <a href="https://www.mysql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" style="margin: 0 10px;" /></a>
 <a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" style="margin: 0 10px;" /></a>
+
 <a href="https://isocpp.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" style="margin: 0 10px;" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" style="margin: 0 10px;" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" style="margin: 0 10px;" /></a>
