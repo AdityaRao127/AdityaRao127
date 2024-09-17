@@ -9,9 +9,9 @@
 ---
 ## 👨‍💻 Currently Developing
 - [NBA Champion Prediction](https://github.com/AdityaRao127/nba-website)
-- [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
-- [Portfolio Website](https://adityarao.co)
 - [NBA Discord Bot](https://github.com/AdityaRao127/BBALLHQ-DISCORD-BOT)
+- [Portfolio Website](https://adityarao.co)
+
 
 
 ## 🔬 Research Projects
