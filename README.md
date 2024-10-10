@@ -32,37 +32,28 @@
 
 ### Languages
 
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" style="margin: 0 10px;" /></a>
-<a href="https://www.mysql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" style="margin: 0 10px;" /></a>
-<a href="https://www.java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" style="margin: 0 10px;" /></a>
-<a href="https://isocpp.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" style="margin: 0 10px;" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" style="margin: 0 10px;" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" style="margin: 0 10px;" /></a>
-<a href="https://nodejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50" style="margin: 0 10px;" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" style="margin: 0 10px;" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="50" style="margin: 0 10px;" /></a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
 
 ### Development Tools
 
-<a href="https://colab.research.google.com/notebooks/intro.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="50" style="margin: 0 10px;" /></a>
-<a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" style="margin: 0 10px;" /></a>
-<a href="https://www.eclipse.org/"><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="50" style="margin: 0 10px;" /></a>
-<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50" style="margin: 0 10px;" /></a>
-<a href="https://www.anaconda.com/"><img src="https://anaconda.org/static/img/anaconda-symbol.svg" alt="Anaconda" width="50" style="margin: 0 10px;" /></a>
-<a href="https://www.mysql.com/products/workbench/"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench" width="50" style="margin: 0 10px;" /></a>
-<a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="50" style="margin: 0 10px;" /></a>
-<a href="https://aws.amazon.com/"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" style="margin: 0 10px;" /></a>
-<a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" style="margin: 0 10px;" /></a>
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TurboDB](https://img.shields.io/badge/TurboDB-%23008080.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### Libraries
 
-<a href="https://www.tensorflow.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" style="margin: 0 10px;" /></a>
-<a href="https://opencv.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="50" style="margin: 0 10px;" /></a>
-<a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" style="margin: 0 10px;" /></a>
-<a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100" style="margin: 0 10px;" /></a>
-<a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" style="margin: 0 10px;" /></a>
-<a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" style="margin: 0 10px;" /></a>
-<a href="https://d3js.org/"><img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="D3.js" width="50" style="margin: 0 10px;" /></a>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/polars-%230C55A5.svg?style=for-the-badge&logo=polars&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
 
 
 ## GitHub Stats
@@ -76,16 +67,18 @@
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aditya-kr-rao/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kr-rao/)
+
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityarao127) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaRao127/) [![Devpost](https://img.shields.io/badge/Devpost-%230A0A0A.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/rao-aditya-codes)
 </div>
 
-
-- **Kaggle:** [@AdityaRao127](https://www.kaggle.com/adityarao127)
-- **GitHub:** [@AdityaRao127](https://github.com/AdityaRao127)
-- **Devpost:** [Devpost](https://devpost.com/rao-aditya-codes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
 <div align="center">
+
   
 Thank you for checking out my GitHub profile!
 
  </div>
+
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=AdityaRao127&icon=0&color=0)](https://visitcount.itsvg.in)
