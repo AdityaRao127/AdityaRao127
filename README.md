@@ -69,7 +69,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kr-rao/)
 
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityarao127) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaRao127/) [![Devpost](https://img.shields.io/badge/Devpost-%230A0A0A.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/rao-aditya-codes)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityarao127) [![Devpost](https://img.shields.io/badge/Devpost-%230A0A0A.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/rao-aditya-codes)
 </div>
 
 <div align="center">
