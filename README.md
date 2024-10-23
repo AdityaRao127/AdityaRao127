@@ -8,7 +8,6 @@
 
 ---
 ## 👨‍💻 Currently Developing
-- [NBA Champion Prediction](https://github.com/AdityaRao127/nba-website)
 - [NBA Discord Bot](https://github.com/AdityaRao127/BBALLHQ-DISCORD-BOT)
 - [Portfolio Website](https://adityarao.co)
 
