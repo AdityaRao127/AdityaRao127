@@ -16,7 +16,7 @@
 ## 🔬 Research Projects
 - [Vision-based Quick Impromptu Polling System for Classrooms](https://github.com/hajin-park/V-QUIP)
 - S&P 500 Forecasting w/ GPT-4
-   - Currently under review for publication. 
+   - Publication: https://doi.org/10.5070/M417164617 
 - [Alzheimer's Detection](https://github.com/Sriramnat100/ASDRP_Files)
 
 ## 👨‍💻 Hackathons
