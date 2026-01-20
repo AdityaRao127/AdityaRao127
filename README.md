@@ -60,8 +60,6 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaRao127&show_icons=true&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AdityaRao127&theme=dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=AdityaRao127&theme=radical)
 
 
 ## 📬 Please feel free to connect with me!
